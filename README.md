@@ -18,12 +18,12 @@ Skills
 
 Experience
     * Implementation Specialist Intern: Fluke Corporation – Developed Power Automate flows and supported Salesforce data migration.
-    Business Intelligence Intern: Paychex – Created Oracle reports and contributed to cloud-based data migration.
+    * Business Intelligence Intern: Paychex – Created Oracle reports and contributed to cloud-based data migration.
     * Medical Device Researcher: Developing real-time data analysis apps using accelerometers for baseball injury prevention.
     * Virtual Reality Developer: Created immersive VR experiences for educational and therapeutic applications.
     Projects
     * Comfort Airlines Flight Data Simulator: Built a GUI for managing flights, passenger data, and financials as part of a simulation project.
-    Lille Compiler: Developed a custom compiler using C++ to translate a man-made language into machine code.
+    * Lille Compiler: Developed a custom compiler using C++ to translate a man-made language into machine code.
     * AI-Powered Chest Disease Detection: Leveraged deep learning models to classify chest X-ray images, diagnosing bacterial pneumonia, viral pneumonia, and COVID-19.
 
 Contact
