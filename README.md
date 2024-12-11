@@ -5,26 +5,26 @@ I’m Hanna Zelis, a graduate student at Northwestern University, pursuing a Mas
 
 ## Skills
 
-### Programming Languages
-C++, C, C#, Java, Kotlin, Python, R, SQL, Assembly, HTML, PHP, Haskell, Julia, VPython
+### Programming
+C++, Python, Kotlin, Java, R, C, C#, Prolog, Julia, SQL, Assembly, HTML, Flask (Python Framework), JSON Manipulation, PHP, Haskell, VPython
 
 ### Machine Learning
-SVM, ANN, RNN, CNN, GAN, KNN, Decision Trees, Random Forests, NLP, TensorFlow, PyTorch
+SVM, ANN, RNN, CNN, GAN, KNN, Decision Trees, Random Forests, NLP, MLP, TensorFlow, PyTorch, Deep Learning, Feature Engineering, Overfitting Mitigation, SHAP, AUC-ROC
 
-### Platforms & Tools
-Android Studio, Unreal Engine, Power Automate, Salesforce, Zapier
-
-### Operating Systems
-Linux, UNIX, Ubuntu
-
-### Cloud & DevOps
-AWS, Docker
+### Data Processing
+Grayscale Image Processing, Edge Detection
 
 ### Data Analysis
-Pandas, NumPy, Matplotlib
+Pandas, NumPy, Matplotlib, Data Scaling, Financial Modeling, Report Generation
 
-### Other Skills
-Microcontrollers, Arduinos, Microsoft Office Suite, Virtual Reality
+### Cloud & DevOps
+AWS, Docker, Microsoft 365, Salesforce
+
+### Tools & Technologies
+GitHub, Jira, Linux, Microcontrollers, Arduino, Unreal Engine, Oracle Analytics Cloud
+
+### Web Development
+Flask-based Web Applications, Dynamic User Interfaces with Bootstrap, Front-end Form Design
 
 ## Experience
 - **Implementation Specialist Intern**: Fluke Corporation – Developed Power Automate flows and supported Salesforce data migration.
