@@ -12,19 +12,22 @@ C++, Python, Kotlin, Java, R, C, C#, Prolog, Julia, SQL, Assembly, HTML, Flask (
 SVM, ANN, RNN, CNN, GAN, KNN, Decision Trees, Random Forests, NLP, MLP, TensorFlow, PyTorch, Deep Learning, Feature Engineering, Overfitting Mitigation, SHAP, AUC-ROC
 
 ### Data Processing
-Grayscale Image Processing, Edge Detection
+Grayscale Image Processing, Edge Detection, Data Augmentation
 
 ### Data Analysis
 Pandas, NumPy, Matplotlib, Data Scaling, Financial Modeling, Report Generation
 
 ### Cloud & DevOps
-AWS, Docker, Microsoft 365, Salesforce
+Azure, AWS, Docker, Microsoft 365, Salesforce
 
 ### Tools & Technologies
-GitHub, Jira, Linux, Microcontrollers, Arduino, Unreal Engine, Oracle Analytics Cloud
+GitHub, Jira, Linux, Arduino, Raspberry Pi, Unreal Engine, Oracle Analytics Cloud
 
 ### Web Development
 Flask-based Web Applications, Dynamic User Interfaces with Bootstrap, Front-end Form Design
+
+### Other
+LLM Prompt Engineering, UI Design, UX Research, Recommendation Systems, Compiler Design, Neuro-Activity Analysis, Virtual Reality Development
 
 ## Experience
 - **Implementation Specialist Intern**: Fluke Corporation – Developed Power Automate flows and supported Salesforce data migration.
@@ -33,6 +36,11 @@ Flask-based Web Applications, Dynamic User Interfaces with Bootstrap, Front-end 
 - **Virtual Reality Developer**: Created immersive VR experiences for educational and therapeutic applications.
 
 ## Projects
+- **Deep Learning for Tool Counting**: Designed and trained CNN models to detect and count surgical instruments in operating room images using computer vision.
+- **Reel AI - LLM-Based Movie Recommender**: Built an interactive web platform using prompt engineering and user preference memory to improve LLM-based movie recommendations.
+- **FamLink - Family Scheduling App**: Created a Figma prototype for a human-centered scheduling tool enabling coordination between parents and young adults.
+- **Cancer Classification via Gene Expression**: Achieved over 99% test accuracy using ensemble models and feature selection to classify cancer types from genomic expression data.
+- **ASL Alphabet Sign Reconigition**: Trained machine learning and CNN models on 87K+ grayscale images to classify American Sign Language alphabet signs with over 98% accuracy.
 - **Daily Meal Tracker Web Application**: Developed a Flask-based nutrition tracking system with dynamic user interfaces, automated nutritional calculations, and JSON-based data management.
 - **Comfort Airlines Flight Data Simulator**: Built a GUI for managing flights, passenger data, and financials as part of a simulation project.
 - **Lille Compiler**: Developed a custom compiler using C++ to translate a man-made language into machine code.
